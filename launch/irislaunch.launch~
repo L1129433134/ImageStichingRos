@@ -1,0 +1,3 @@
+<launch>
+  <node name="node_merged_videos" pkg="iris_automation_test" type ="node_merged_videos" output="screen" args="/home/vishnu/Desktop/RosTutorials/catkin_ws/src/iris_automation_test/videos/dynamic_test.mp4 /home/vishnu/Desktop/RosTutorials/catkin_ws/src/iris_automation_test/videos/field_trees.avi 100"  />
+</launch>

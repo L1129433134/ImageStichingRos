@@ -1,0 +1,1 @@
+This is a ros node for stiching and inverting 2 videos into a single one and its length will be the length of the smallest video.A launch file is present with this package and the user must change the location of the video to the full path of where it is present. This same change must be done to the test files to.
